@@ -1,0 +1,15 @@
+INSERT INTO producto (nombre, precio, stock) VALUES
+  ('Intel Core i9-13900K', 649.99, 10),
+  ('AMD Ryzen 9 7950X', 599.99, 8),
+  ('Monitor LG UltraGear 27" 144Hz', 299.99, 15),
+  ('Monitor Samsung 32" Curvo 4K', 349.99, 12),
+  ('PC Gamer Ryzen 7 / RTX 4070', 1499.99, 3),
+  ('Laptop Dell XPS 13 OLED', 1199.99, 5),
+  ('Disco SSD Samsung 980 Pro 1TB', 129.99, 20),
+  ('Placa Madre ASUS ROG Strix X670E', 379.99, 7),
+  ('Gabinete NZXT H510', 89.99, 25),
+  ('Fuente Corsair RM850x 850W', 129.99, 18),
+  ('Teclado Mecánico Logitech G Pro', 129.99, 14),
+  ('Mouse Logitech G502 HERO', 49.99, 30),
+  ('Auriculares Razer BlackShark V2', 99.99, 22),
+  ('Webcam Logitech StreamCam 1080p', 149.99, 11);

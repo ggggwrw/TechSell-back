@@ -1,0 +1,16 @@
+C:\Users\nicol\OneDrive\Desktop\pana\Back end\techlab-gestion\src\main\java\com\techlab\excepciones\NotFoundException.java
+C:\Users\nicol\OneDrive\Desktop\pana\Back end\techlab-gestion\src\main\java\com\techlab\repos\LineaPedidoRepository.java
+C:\Users\nicol\OneDrive\Desktop\pana\Back end\techlab-gestion\src\main\java\com\techlab\controllers\PedidoController.java
+C:\Users\nicol\OneDrive\Desktop\pana\Back end\techlab-gestion\src\main\java\com\techlab\excepciones\StockInsuficienteException.java
+C:\Users\nicol\OneDrive\Desktop\pana\Back end\techlab-gestion\src\main\java\com\techlab\pedidos\Pedido.java
+C:\Users\nicol\OneDrive\Desktop\pana\Back end\techlab-gestion\src\main\java\com\techlab\TechlabGestionApplication.java
+C:\Users\nicol\OneDrive\Desktop\pana\Back end\techlab-gestion\src\main\java\com\techlab\services\PedidoService.java
+C:\Users\nicol\OneDrive\Desktop\pana\Back end\techlab-gestion\src\main\java\com\techlab\advice\GlobalExceptionHandler.java
+C:\Users\nicol\OneDrive\Desktop\pana\Back end\techlab-gestion\src\main\java\com\techlab\controllers\ProductoController.java
+C:\Users\nicol\OneDrive\Desktop\pana\Back end\techlab-gestion\src\main\java\com\techlab\dto\ProductoDto.java
+C:\Users\nicol\OneDrive\Desktop\pana\Back end\techlab-gestion\src\main\java\com\techlab\repos\ProductoRepository.java
+C:\Users\nicol\OneDrive\Desktop\pana\Back end\techlab-gestion\src\main\java\com\techlab\productos\Producto.java
+C:\Users\nicol\OneDrive\Desktop\pana\Back end\techlab-gestion\src\main\java\com\techlab\services\ProductoService.java
+C:\Users\nicol\OneDrive\Desktop\pana\Back end\techlab-gestion\src\main\java\com\techlab\pedidos\LineaPedido.java
+C:\Users\nicol\OneDrive\Desktop\pana\Back end\techlab-gestion\src\main\java\com\techlab\repos\PedidoRepository.java
+C:\Users\nicol\OneDrive\Desktop\pana\Back end\techlab-gestion\src\main\java\com\techlab\controllers\CarritoController.java

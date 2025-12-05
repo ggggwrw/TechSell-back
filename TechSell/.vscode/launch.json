@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-TechlabGestionApplication<techlab-gestion>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.techlab.TechlabGestionApplication",
+            "projectName": "techlab-gestion",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
